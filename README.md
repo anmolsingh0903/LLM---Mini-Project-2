@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis using Word2Vec & GloVe
+# Sentiment Analysis using Word2Vec & GloVe
 ## 📌 Project Overview
 
 This project focuses on Natural Language Processing (NLP) techniques to perform sentiment classification using Word2Vec and GloVe embeddings.
